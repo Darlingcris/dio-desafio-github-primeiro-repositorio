@@ -1,4 +1,18 @@
-Links importantes>
+Depois de copiar o link do GitHub:
+
+1- Na pasta criada no seu computador abrir o 'git bash here' com o botão direito do mouse.
+
+Comandos (prompt de comando)
+
+1-git clone https://colar arquivo e dar enter.
+2-cd nome do repositorio -> entra dentro da pasta que você criou
+3-git status -> para verificar se você está na branc main/ver se tem alterações para comitar.
+4- git add . -> para adicionar as alterações feitas.
+5-git commit -m "comentario"-> para fazer alterações na sua pasta do github
+6- git push origin main -> enviar todos os comits para a nuvem 
+
+
+Links importantes
 
 https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 https://git-scm.com/downloads
